@@ -1,6 +1,6 @@
 #include <stdio.h>
 void cetakUmur(int *umur){
-printf("Halo, Umur kamu adalah %d tahun", *umur);
+printf("Berarti Usia Kalian sekarang adalah  %d tahun", *umur);
 }
 int main(){
 int angka=20;
